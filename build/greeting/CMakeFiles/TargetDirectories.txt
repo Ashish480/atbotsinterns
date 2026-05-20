@@ -1,0 +1,11 @@
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/uninstall.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/greeting_uninstall.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/publisher.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/subscriber.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/test.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/edit_cache.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/rebuild_cache.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/list_install_components.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/install.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/install/local.dir
+/home/ashy/atbots_ws/build/greeting/CMakeFiles/install/strip.dir

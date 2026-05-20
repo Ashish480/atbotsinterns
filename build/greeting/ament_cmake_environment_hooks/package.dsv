@@ -1,0 +1,4 @@
+source;share/greeting/local_setup.bash
+source;share/greeting/local_setup.dsv
+source;share/greeting/local_setup.sh
+source;share/greeting/local_setup.zsh

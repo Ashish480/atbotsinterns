@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ashy/atbots_ws/build/greeting/publisher" "/home/ashy/atbots_ws/build/greeting/subscriber" "TARGETS" "publisher" "subscriber" "DESTINATION" "lib/greeting")

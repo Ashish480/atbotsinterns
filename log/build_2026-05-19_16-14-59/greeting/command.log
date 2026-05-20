@@ -1,0 +1,4 @@
+Invoking command in '/home/ashy/atbots_ws/build/greeting': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashy/atbots_ws/src/greeting -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashy/atbots_ws/install/greeting
+Invoked command in '/home/ashy/atbots_ws/build/greeting' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashy/atbots_ws/src/greeting -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashy/atbots_ws/install/greeting
+Invoking command in '/home/ashy/atbots_ws/build/greeting': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashy/atbots_ws/build/greeting -- -j16 -l16
+Invoked command in '/home/ashy/atbots_ws/build/greeting' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashy/atbots_ws/build/greeting -- -j16 -l16

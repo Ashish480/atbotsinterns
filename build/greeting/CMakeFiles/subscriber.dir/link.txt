@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subscriber.dir/scripts/subscriber.cpp.o -o subscriber 
